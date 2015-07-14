@@ -115,5 +115,7 @@ struct dnode * search(struct double_list * list, int data)
 	return NULL;
 }
 
+mytest
+
 
 
